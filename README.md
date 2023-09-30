@@ -7,7 +7,7 @@
 <!-- /typing effect -->
 
 # 💫 About Me:
-Well, I loved programming since I was a childhood.<br>It all started when my dad gave me my first console back then, it was NES.<br>There was a game that I loved playing to, it was Super Mario Bros.<br>Since there I dreamed to built liked Super Mario Bros did when I grew up later on.<br><br>But currently I think, to build a game, especially with nowaday's gamer standard expectations(ex: 4K graphics)<br>it requires very massive resources and also high costs.<br>Then to fulfill my dream, I switched to becoming a website developer.<br>Within same effort but lower resources and cost but still can make 💲 too.<br><br>As a WEB programmer, I deal with github to save my projects into the repository.<br>Also to share it with others too. I love learning something new by the way.<br>And when I get something new I love to share it too.
+Well, I loved programming since I was a child.<br>It all started when my dad gave me my first console back then, it was NES.<br>There was a game that I loved playing to, it was Super Mario Bros.<br>Since there I dreamed to built liked Super Mario Bros did when I grew up later on.<br><br>But currently I think, to build a game, especially with nowaday's gamer standard expectations(ex: 4K graphics)<br>it requires very massive resources and also high costs.<br>Then to fulfill my dream, I switched to becoming a website developer.<br>Within same effort but lower resources and cost but still can make 💲 too.<br><br>As a WEB programmer, I deal with github to save my projects into the repository.<br>Also to share it with others too. I love learning something new by the way.<br>And when I get something new I love to share it too.
 
 
 ## 🌐 Socials:
