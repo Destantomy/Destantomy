@@ -1,13 +1,13 @@
 <!-- typing effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=...;hello,+there!+👋;it's+Destantomy+here;welcome+to+my+github+profile!;&center=true&size=23">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello,+there!+👋;it's+Destantomy+here;welcome+to+my+github+profile!;&center=true&size=23">
   </a>
 </h1>
 <!-- /typing effect -->
 
 # 💫 About Me:
-Well, I loved programming since I was a child.<br>It all started when my dad gave me my first console back then, it was NES.<br>There was a game that I loved playing to, it was Super Mario Bros.<br>Since there I dreamed to built liked Super Mario Bros did when I grew up later on.<br><br>But currently I think, to build a game, especially with nowaday's gamer standard expectations(ex: 4K graphics)<br>it requires very massive resources and also high costs.<br>Then to fulfill my dream, I switched to becoming a website developer.<br>Within same effort but lower resources and cost but still can make 💲 too.<br><br>As a WEB programmer, I deal up with github alot to save my projects into the repository.<br>Also to share it with others too. I love learning something new by the way.<br>And when I get something new I love to share it too.
+Well, I loved programming since I was a child.<br>It began when my dad gave me my first console backthen, it was NES.<br>There was a game that I loved playing to, it was Super Mario Bros.<br>Since there I had dreamt to build like Super Mario Bros did when I grew up later on.<br><br>But currently I think, to build a game especially with nowaday's gamers standard expectations (ex: 4K graphics)<br>it requires very massive resources and also high costs.<br>Then to fulfill my dream, I switched to becoming a website developer.<br>Within same effort but lower resources and cost but still can make 💲 too.<br><br>As a WEB programmer, I deal up with github alot to save my projects into the repository.<br>Also to share it with others too. I love learning something new by the way and when I get something new I love to share it too.
 
 
 ## 🌐 Socials:
@@ -28,9 +28,6 @@ Well, I loved programming since I was a child.<br>It all started when my dad gav
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Destantomy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Destantomy&icon=0&color=0)](https://visitcount.itsvg.in)
