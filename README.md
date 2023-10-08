@@ -1,10 +1,8 @@
 <!-- typing effect -->
 <h1 align="center">
-  <b>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=450&lines=hello%2C+there+!+👋;it's+Destantomy+here+!;welcome+to+my+github+profile+!" alt="Typing SVG" />
   </a>
-</b>
 </h1>
 <!-- /typing effect -->
 
