@@ -9,7 +9,13 @@
 <!-- GPRM -->
 
 ### About Me :
-<p align="justify" font-family="Quicksand">I thought have interested about technology since I was a child. It began when my dad gave me my first console backthen, it was NES. There was a game that I loved playing to, it was Super Mario Bros. Since there I had dreamt to built liked Super Mario Bros did when I grew up later on. I didn't quite know what it was called, till I relized it was called programmer. But currently I think to build a game especially with nowaday's gamers standard expectations (ex: 4K graphics) it requires very massive resources and also high costs. Then to fulfill my dream, I switched to becoming a website programmer. Within same effort but lower resources and cost but still can make 💲 too. As a WEB programmer, I deal up with github alot to save my projects into the repository. Also to share it with others too. I love learning something new by the way and when I get something new I love to share it too.</p>
+<p align="justify" font-family="Quicksand"> I am a developer having experience in building a website with specialized in Back-End development field for small or medium sized businessness. I can support your business with handle to create a project involving a website-based application. Here are my skills including :
+<ul>
+  <li>Knowing the fundamentals of website building such as HTML, CSS3, PHP, and JavaScript.</li>
+  <li>Experienced in REST API architecture with Back-End programming tools such as Node.js run time tool, Express.js Hapi.js and Next.js for the frameworks, and also React.js library for the Front-End.</li>
+  <li>Experienced in MVC architecture using CodeIgniter 4 for the framework.</li>
+  <li>Full project management from start to finish.</li>
+Regular communication is important to me so let's stay keep in touch. </p>
 
 ### Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itsdesta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/destanto-muhamad-yusuf-497834272) 
