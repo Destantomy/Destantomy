@@ -8,7 +8,7 @@
 
 <!-- GPRM -->
 
-### About Me :
+### About :
 <p align="justify" font-family="Quicksand">I am a developer having experience in building a website with specialized in Back-End development field for small or medium sized businessness. I can support your business with handle to create a project involving a website-based application. Here are my skills including : <ul>
   <li>Knowing the fundamentals of website building such as HTML, CSS3, PHP, and JavaScript.</li>
   <li>Experienced in REST API architecture with Back-End programming tools such as Node.js run time tool, Express.js Hapi.js and Next.js for the frameworks, and also React.js library for the Front-End.</li>
