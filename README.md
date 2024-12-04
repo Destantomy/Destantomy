@@ -18,6 +18,8 @@
 Regular communication is important to me so let's stay keep in touch. </p>
 
 ### Socials :
+[![Socials] (https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/destanto-muhamad-yusuf-497834272)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itsdesta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/destanto-muhamad-yusuf-497834272) 
 
 ### Skills :
