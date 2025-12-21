@@ -1,13 +1,14 @@
 <!-- GPRM -->
 
 ### About :
-<p align="justify" font-family="Quicksand">I am a developer having experience in building a website with specialized in Back-End development field for small or medium sized businessness. I can support your business with handle to create a project involving a website-based application. Here are my skills including : <ul>
-  <li>Knowing the fundamentals of website building such as HTML, CSS3, PHP, and JavaScript.</li>
-  <li>Experienced in REST API architecture with Back-End programming tools such as Node.js run time tool, Express.js Hapi.js and Next.js for the frameworks, and also React.js library for the Front-End.</li>
-  <li>Experienced in MVC architecture using CodeIgniter 4 for the framework.</li>
-  <li>Full project management from start to finish.</li>
+<p align="justify" font-family="Quicksand">I am a Web Developer specializing in Back-End development for small to medium-sized businesses. I can help you build and maintain website-based applications that support your business needs from start to finish. <br/> My skills include : <ul>
+  <li>Strong understanding of core web technologies: HTML5, CSS3, JavaScript, and PHP.</li>
+  <li>Experienced with REST API development using Node.js (Express.js, Hapi.js), Laravel—plus  Next.js and React.js for Front-End interfaces.</li>
+  <li>Skilled in MVC architecture using CodeIgniter 4.</li>
+  <li>Experienced in integrating applications with relational databases such as MySQL and PostgreSQL, as well as NoSQL databases like MongoDB.</li>
+  <li>End-to-end project development, from planning to deployment.</li>
 </ul>
-Regular communication is important to me so let's stay keep in touch. </p>
+I prioritize clear, consistent communication throughout every project. I’m comfortable working remotely, experienced with version control (GitHub), and committed to delivering clean, maintainable code. <br/> Let’s work together to bring your project to life. </p>
 
 ### Socials :
 [![Socials](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/destanto-muhamad-yusuf-497834272) [![Socials](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itsdesta_)
