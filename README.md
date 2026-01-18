@@ -21,7 +21,12 @@ I prioritize clear, consistent communication throughout every project. I’m com
 - Messaging/Queue : <br /> [![Messaging](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
 - Frontend Frameworks & UI : <br /> [![Frontend](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind)](https://skillicons.dev) <br />
 - Databases : <br /> [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev) <br />
-- Libraries & Technologies : <br /> [![Libraries](https://skillicons.dev/icons?i=npm,git,github,githubactions)](https://skillicons.dev) ![Static Badge](https://img.shields.io/badge/COMPOSER-6A6A6A?style=for-the-badge&logo=Composer) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br />
+- Package Managers : <br /> [![PackageManagers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev) ![Static Badge](https://img.shields.io/badge/COMPOSER-6A6A6A?style=for-the-badge&logo=Composer) <br />
+- Version Control : <br /> [![VersionControl](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev) <br />
+- Auth/Security : <br /> ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Sanctum](https://img.shields.io/badge/Sanctum-black?style=for-the-badge&logo=Sanctum) <br />
+
+
+[![PackageManagers](https://skillicons.dev/icons?i=npm,git,github)](https://skillicons.dev)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br />
 - Cloud Services : <br /> [![Frontend](https://skillicons.dev/icons?i=vercel,aws)](https://skillicons.dev) <br />
 - Hobbies : <br /> [![Hobbies](https://skillicons.dev/icons?i=cpp,arduino,stackoverflow,vscode,codepen,mint,ae,ai,sketchup&perline=10)](https://skillicons.dev) <br /> 
 
