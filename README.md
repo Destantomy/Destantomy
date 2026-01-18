@@ -1,6 +1,6 @@
 <!-- GPRM -->
 
-### Hello-World !
+### Hello—World !
 <p align="justify" font-family="Quicksand">I am a Web Developer specializing in Back-End development for small to medium-sized businesses. I can help you build and maintain website-based applications that support your business needs from start to finish. <br/> My skills including : <ul>
   <li>Strong understanding of core web technologies using JavaScript, and PHP.</li>
   <li>Experienced with REST API development using Node.js { Express.js, Nest.js, Hapi.js } and Laravel — plus Next.js and React.js for Front-End interfaces.</li>
@@ -19,7 +19,7 @@ I prioritize clear, consistent communication throughout every project. I’m com
 - Backend Frameworks : <br /> [![BackendFrameworks](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel)](https://skillicons.dev) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Static Badge](https://img.shields.io/badge/hapi-js-orange?style=for-the-badge) <br />
 - Backend Tools : <br /> [![BackendTools](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Static Badge](https://img.shields.io/badge/Nodemon-566573?style=for-the-badge&logo=Nodemon) <br />
 - Messaging/Queue : <br /> [![Messaging](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
-- Frontend Frameworks & UI : <br /> [![Frontend](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind)](https://skillicons.dev) <br />
+- Frontend Frameworks & UI : <br /> [![Frontend](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,figma)](https://skillicons.dev) <br />
 - Frontend Routing : <br /> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br />
 - Databases : <br /> [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev) <br />
 - Package Managers : <br /> [![PackageManagers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev) ![Static Badge](https://img.shields.io/badge/COMPOSER-6A6A6A?style=for-the-badge&logo=Composer) <br />
