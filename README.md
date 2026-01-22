@@ -44,9 +44,6 @@ I prioritize clear, consistent communication throughout every project. I’m com
 ### Dev-Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Destantomy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Destantomy&icon=0&color=0)](https://visitcount.itsvg.in)
 
