@@ -16,7 +16,7 @@ I prioritize clear, consistent communication throughout every project. I’m com
 ### Core Skills :
 - Programming Languages : <br /> [![ProgrammingLanguages](https://skillicons.dev/icons?i=javascript,ts,php)](https://skillicons.dev) <br />
 - WEB Fundamentals : <br /> [![WebFundamentals](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) <br />
-- Backend Frameworks : <br /> [![BackendFrameworks](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel)](https://skillicons.dev) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Static Badge](https://img.shields.io/badge/hapi-js-orange?style=for-the-badge) <br />
+- Backend Frameworks : <br /> [![BackendFrameworks](https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel)](https://skillicons.dev) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Static Badge](https://img.shields.io/badge/hapi-js-orange?style=for-the-badge) <br />
 - Backend Tools : <br /> [![BackendTools](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Static Badge](https://img.shields.io/badge/Nodemon-566573?style=for-the-badge&logo=Nodemon) <br />
 - Messaging/Queue : <br /> [![Messaging](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
 - Frontend Frameworks & UI : <br /> [![Frontend](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,figma)](https://skillicons.dev) <br />
